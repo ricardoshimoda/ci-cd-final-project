@@ -19,6 +19,7 @@ bash bin/setup.sh
 ## Tasks
 0 - Push CI code to github
 1 - Create basic workflow
+2 - Add linting step
 
 ## License
 
