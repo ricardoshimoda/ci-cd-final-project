@@ -1,31 +1,23 @@
-# CI/CD Tools and Practices Final Project Template
+# CI/CD Tools and Practices Final Project
 
-This repository contains the template to be used for the Final Project for the Coursera course **CI/CD Tools and Practices**.
+This repository contains the Final Project for the Coursera course **CI/CD Tools and Practices** as completed by the owner of the repository
 
 ## Usage
 
-This repository is to be used as a template to create your own repository in your own GitHub account. No need to Fork it as it has been set up as a Template. This will avoid confusion when making Pull Requests in the future.
+This repository is to be kept as proof of course completion. Since the original repo was set as a Template, there was no need to Fork it to set it up as one of my own repos - and, by avoiding this, there is no confusion when creating Pull Requests
 
-From the GitHub **Code** page, press the green **Use this template** button to create your own repository from this template.
-
-Name your repo: `ci-cd-final-project`.
+This repo has been named: `ci-cd-final-project`.
 
 ## Setup
 
-After entering the lab environment you will need to run the `setup.sh` script in the `./bin` folder to install the prerequisite software.
+It's necessary to run the `setup.sh` script in the `./bin` folder to install the prerequisite software before any other task
 
 ```bash
 bash bin/setup.sh
 ```
 
-Then you must exit the shell and start a new one for the Python virtual environment to be activated.
-
-```bash
-exit
-```
-
 ## Tasks
-
+0 - push CI code to github
 
 ## License
 
@@ -33,6 +25,7 @@ Licensed under the Apache License. See [LICENSE](/LICENSE)
 
 ## Author
 
-Skills Network
+Skills Network - Template Project
+Ricardo Shimoda Nakasako - With Task resolution
 
 ## <h3 align="center"> © IBM Corporation 2023. All rights reserved. <h3/>
