@@ -21,7 +21,8 @@ bash bin/setup.sh
 1- Create basic workflow
 2- Add linting step
 3- Add test step
-
+4- Validate GitHub Actions Workflow
+5- Create cleanup Tekton task
 ## License
 
 Licensed under the Apache License. See [LICENSE](/LICENSE)
